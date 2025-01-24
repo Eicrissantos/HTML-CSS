@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+body{
+    background-color: chartreuse;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{ 
+    color: rgb(7, 12, 1);
+}
+
+h1#principal {
+    text-align: center;
+    background-color: cadetblue;
+
+
+}
+
+
+    .basico{
+        color: rgb(9, 179, 3);
+    }
+    .avançado{
+        color: brown;
+    }
+    .destaque
+    {
+        background-color: rgb(182, 102, 5);
+    }
